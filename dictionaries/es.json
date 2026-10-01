@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Finde Fantasma | Web oficial",
+    "description": "Web oficial de Finde Fantasma: próximos conciertos, biografía y redes sociales."
+  },
+  "brand": "Finde Fantasma",
+  "nav": {
+    "menu": "Menú",
+    "open": "Abrir menú",
+    "close": "Cerrar menú",
+    "concerts": "Conciertos",
+    "bio": "Bio"
+  },
+  "hero": {
+    "title": "Finde Fantasma",
+    "alt": "Finde Fantasma en directo"
+  },
+  "concerts": {
+    "title": "Conciertos",
+    "tickets": "Tickets",
+    "empty": "No hay conciertos próximamente",
+    "error": "No se pudieron cargar los conciertos",
+    "loading": "Cargando conciertos"
+  },
+  "bio": {
+    "title": "Bio",
+    "paragraphs": [
+      "Guitarras surferas, ritmos potentes, letras desenfadadas, ironía y cine. Son algunos de los ingredientes que forman el universo de Finde Fantasma, banda alicantina formada por Pablo, Yoann y David.",
+      "En 2022, Fikasound editó su primer álbum, Intramuros, grabado en el prestigioso Estudio UNO y producido por Carlos Hernández Nombela, responsable del sonido de bandas como Carolina Durante o Triángulo de Amor Bizarro. El disco llevó a Finde Fantasma a los Conciertos de Radio 3 y a recorrer diferentes escenarios de la península, además de compartir cartel con artistas como Viva Suecia, Second, Izal, Kitai o Niña Polaca.",
+      "Su propuesta se mueve entre el indie rock épico y el pop más fresco, combinando canciones capaces de acompañar una llorera mirando por la ventanilla del coche con estribillos hechos para ser gritados a pleno pulmón en un festival.",
+      "Ahora Finde Fantasma regresan con su segundo LP y una identidad sonora más madura, sólida y reconocible. Una evolución natural de la banda, que mantiene intacta su capacidad para convertir la melancolía en algo luminoso y bailable.",
+      "En esta nueva etapa, Carlos Elías y Pablo Fergus, productores de Sexy Zebras y Alcalá Norte, junto a Alex Moreno, han ayudado a llevar ese universo un paso más allá. Baterías contundentes, con una pegada cercana a The National; una voz de Pablo que suena más personal que nunca; líneas de bajo demoledoras y guitarras que exprimen el chorus analógico hasta acercarse a la sensibilidad de The Smiths.",
+      "El resultado es un sonido más definido y ambicioso, pero que sigue siendo esencialmente Finde Fantasma: música de llorar y pegarse en pogos."
+    ]
+  },
+  "social": {
+    "title": "Síguenos",
+    "photoAlt": "Foto de la banda Finde Fantasma",
+    "bandsintown": "Sigue a la banda en Bandsintown",
+    "footer": "Todos los derechos reservados"
+  }
+}
